@@ -1,0 +1,11 @@
+.speech { font-family:"Courier New" ,times, serif;font-size: 20px;color:black}
+
+.direction { font-family: "Times New Roman"; font-size: 15px;color:black;background-color: khaki;}
+.direction:hover{background-color: yellowgreen;color: gold;}
+.firstCitizen{ color: darkorange;}
+.secondCitizen{ color:blue;}
+.Billing{ color:brown;}
+.AWorkman{ color:yellow;}
+.SecondWorkman{ color:red;}
+.Aslaksen{ color:palegreen;}
+.Horster{ color:gold;}
