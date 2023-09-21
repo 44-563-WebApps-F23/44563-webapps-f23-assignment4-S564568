@@ -36,3 +36,8 @@ th {
 td{border: solid 1px;text-align:left;padding: 9px;}
 tr{background-color:fuchsia;}
 tr:nth-child(even){background-color:darksalmon;color:yellow;}
+ul.navbar-horizontal{
+    list-style-type:none;
+    margin:3px;
+    padding:5px;
+}
