@@ -10,6 +10,14 @@
 .Aslaksen{ color:palegreen;}
 .Horster{ color:gold;}
 
+.firstCitizen:hover{background-color: blue;text-shadow:5px 8px 6px palevioletred;border:solid 3px red}
+.secondCitizen:hover{background-color: brown;text-shadow:5px 8px 6px fuchsia;border:solid 3px red}
+.Billing:hover{background-color: darkorchid;text-shadow:5px 8px 6px black;border:solid 3px red}
+.AWorkman:hover{ background-color: palegreen;text-shadow:5px 8px 6px yellow;border:solid 3px red}
+.SecondWorkman:hover{background-color:navajowhite;text-shadow:5px 8px 6px lawngreen;border:solid 3px red}
+.Aslaksen:hover{ background-color:mediumorchid;text-shadow:5px 8px 6px violet;border:solid 3px red}
+.Horster:hover{background-color:coral;text-shadow:5px 8px 6px sandybrown;border:solid 3px red}
+
 table{
     background-color: lightblue;
     color:blue;
