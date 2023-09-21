@@ -9,3 +9,22 @@
 .SecondWorkman{ color:red;}
 .Aslaksen{ color:palegreen;}
 .Horster{ color:gold;}
+
+table{
+    background-color: lightblue;
+    color:blue;
+    text-align:left;
+    padding: 1px;
+    border:solid 3px darkviolet;
+    margin-bottom: 20px;
+}
+th {
+    background-color:indianred;
+    color:lawngreen;
+    text-align:left;
+    padding: 10px;
+    border: 1px solid darkviolet;
+}
+td{border: solid 1px;text-align:left;padding: 9px;}
+tr{background-color:fuchsia;}
+tr:nth-child(even){background-color:darksalmon;color:yellow;}
